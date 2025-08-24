@@ -1,0 +1,80 @@
+Build a professional responsive website using Next.js and Tailwind CSS for a gym named 
+“धर्मवीर छत्रपती संभाजीराजे फिटनेस क्लब”. Use modern UI design, animations, and a clean 
+navigation bar. Use orange, black, and white as the primary theme colors. The website must 
+include the following sections:
+
+1. **Header & Navigation**
+   - Logo (use the provided gym logo file).
+   - Navigation links: Home, About Us, Services, Pricing, Equipment, Gallery, Contact.
+   - Sticky navbar with smooth scroll.
+
+2. **Hero Section**
+   - Full-width background image of a gym/workout scene.
+   - Motivational headline: "Transform Your Body, Transform Your Life".
+   - Call-to-action buttons: "Join Now" and "View Pricing".
+
+3. **About Us Section**
+   - Founder: Mahesh Wasu (Gym Director).
+   - Short bio/message: "Our mission is to provide world-class fitness facilities and 
+     training to help you achieve your best version."
+   - Mention team members (dummy data for now):
+     - Nima M. Wasu – Head Trainer
+     - John Doe – MMA Coach
+     - Priya Sharma – Yoga Instructor
+     - Rahul Patil – Manager
+   - Add photo placeholders for team members.
+
+4. **Services Section**
+   Show cards with icons/images for:
+   - Gym Fitness Classes
+   - MMA Classes
+   - Power Lifting
+   - Personal Training
+   - Zumba & Cardio
+   Each card should have a short description (benefits, duration, features).
+
+5. **Pricing Plans**
+   - Use a pricing table design with 3 columns (Monthly, Quarterly, Yearly).
+   - Add details from the provided price list image:
+     - Monthly: ₹1500
+     - Quarterly: ₹4000
+     - Half-Yearly: ₹7500
+     - Yearly: ₹14,000
+     - Guest Fees: ₹100/day
+     - Couple Packages (1 month ₹2800, Quarterly ₹7500)
+     - Personal Training: 1 month ₹5000, 2 months ₹9000
+   - Highlight: “Diet, Workout & Cardio Classes included in all memberships.”
+
+6. **Equipment Section**
+   - List of equipment categories with icons/images:
+     - Cardio Machines
+     - Strength Training Equipment
+     - Free Weights
+     - CrossFit Setup
+   - Add photo placeholders for gym equipment.
+
+7. **Gallery Section**
+   - A grid layout with high-quality gym images (placeholders for now).
+   - Include workout zone, reception, locker room, group training.
+
+8. **Contact Section**
+   - Gym Director: Nima M. Wasu
+   - Phone: 9579753774
+   - Email: example@gmail.com (dummy, can be updated later)
+   - Address: [Add placeholder address of gym location].
+   - Embed Google Maps iframe for location.
+
+9. **Footer**
+   - Gym logo
+   - Quick navigation links
+   - Social media icons (Facebook, Instagram, WhatsApp placeholders).
+   - Copyright text.
+
+10. **Features**
+   - Responsive for mobile, tablet, and desktop.
+   - Smooth scroll & animations using Framer Motion.
+   - Use cards with hover effects.
+   - Dark/Light theme toggle (optional but recommended).
+
+Make sure the site looks modern, fast, and SEO-friendly. Include meta tags, title, 
+and favicon support. Use Tailwind utility classes for styling. 
